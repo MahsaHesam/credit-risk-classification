@@ -1,7 +1,8 @@
 
 
 
-![What-is-credit-risk](https://github.com/user-attachments/assets/d1a5b0fa-eef6-4a2d-bcd3-89d63bae43f4)
+![What-is-credit-risk](https://github.com/user-attachments/assets/bcb425e4-7861-4306-988a-5c21d078c5a9)
+
 
 
 
