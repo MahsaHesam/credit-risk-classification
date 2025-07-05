@@ -1,3 +1,12 @@
+
+
+
+![What-is-credit-risk](https://github.com/user-attachments/assets/d1a5b0fa-eef6-4a2d-bcd3-89d63bae43f4)
+
+
+
+
+
 **Overview of the Analysis**
 
 I've analysed financial data including loan size, interest rate, borrower income, debt-to-income ratio, account count, credit delinquencies, and total debt.I have used LogisticRegression. The goal was to classify loans as either healthy (0) or high-risk (1).
